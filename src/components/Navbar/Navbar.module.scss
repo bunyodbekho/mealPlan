@@ -1,0 +1,13 @@
+.navbar {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  .navlink {
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-weight: 600;
+  }
+  .navlink:hover {
+    color: #299c4f;
+  }
+}
